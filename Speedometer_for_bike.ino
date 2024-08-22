@@ -2,7 +2,7 @@
 //  This speedometer shows up to 999.99 km/hr or 999.99 Mi/hr
 //  This speedometer does not count distance
 //  This speedometer uses one magnet per revolution
-//  Wiring for speedometer is in Wiring.bmp
+//  Wiring for speedometer is in Wiring1.bmp and wiring2.bmp
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(4, 5, 6, 7, 8, 9);
@@ -16,7 +16,7 @@ unsigned long past = 0;
 unsigned long past2 = 0;
 unsigned int interval = 1000;       // time in milliseconds between LCD refreshes
 
-unsigned int wheelCircum = 2194;    // wheel circumference in millimeters
+unsigned int wheelCircum = 2194;    // wheel circumference in millimeters currently set for 27.5 inch wheel
 
 float kmph = 0;
 float mph = 0;
