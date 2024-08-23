@@ -1,7 +1,7 @@
                            INSTRUCTIONS ON FIXTURING THE SPEEDOMETER
 
 - Ziptie the sensor to the fork of your bicycle, ziptie the computer part to your handlebars, 
-- ziptie the sensor cable in such a way that it does not get pulled on in any steering position
+- Ziptie the sensor cable in such a way that it does not get pulled on in any steering position
 
 
 
